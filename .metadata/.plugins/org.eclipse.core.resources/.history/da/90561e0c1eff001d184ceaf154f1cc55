@@ -1,0 +1,13 @@
+package application;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		String path = "c:\\temp\\ws-files\\input.csv";
+		
+		System.out.println(path);
+
+	}
+
+}
